@@ -1,4 +1,4 @@
-# Time-Series Analysis
+# Forcasting using ARIMA
 
-Trend Regression
+
 ---
